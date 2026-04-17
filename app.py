@@ -1,4 +1,4 @@
-# app.py test
+# app.py tests
 
 def greet(name):
     """Returns a greeting message."""
