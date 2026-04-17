@@ -1,6 +1,6 @@
 name: Container Image Vulnerability Scan
 
-on:
+runs-on: self-hosted
   push:
     branches:
       - main
